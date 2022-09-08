@@ -5,12 +5,14 @@ px<-c(0.41,0.37,0.16,0.05,0.01)
 
 sum(x*px)
 weighted.mean(x,px)
-c(x%*%px)
+c(x%*%px) # matrix multiplication hoga..px initially a row matrix , %*% will convert px to a column matrix
+
 
 #2
 
 ft<-function(t){t*(0.1*exp(-0.1*t))}
-integrate(ft,0,Inf)
+integrate(ft,0,Inf) #0 lower limit # inf upper limit 
+
 
 #3
 
@@ -21,9 +23,9 @@ ft2<-function(x)
 {
   -18+12*x+(3-x)*2
 }
-
 ev=sum(x*px)
 ft2(ev)
+
 
 #4
 
