@@ -1,0 +1,10 @@
+stateSabb $ region $ populationStotal
+Arizona $ AZSwest $ 6392017 $ 232
+California $ CA $ west $ 37253956 $ 1257
+Delaware $ DE $ South $ 897934 $ 38
+Florida $ FL $ South $ 19687653 $ 669
+Georgia $ GA $ South $ 9920000 $ 376
+Illinois $ IL $ North $ 12830632 $ 364
+Iowa SIASNorth $ 3046355 $ 21
+Kansas SKS $ North $ 2853118 $ 63
+Louisiana $ LASSouth $ 4533372 $ 351
